@@ -1,0 +1,647 @@
+OrderID,OrderDate,Product,Category,Region,SalesRep,CustomerType,Quantity,UnitPrice,DiscountPct,Revenue,NetRevenue,Month
+10613,2025-01-03,USB-C Cable,Electronics,East,Vikram Shah,Retail,5,292.32,0,1461.6,1461.6,2025-01
+10379,2025-01-03,Notebook Set,Stationery,South,Vikram Shah,Wholesale,1,200.54,20,200.54,160.43200000000002,2025-01
+10004,2025-01-04,Office Chair,Furniture,South,Karan Mehta,Wholesale,3,6354.64,0,19063.92,19063.92,2025-01
+10591,2025-01-05,Webcam HD,Electronics,North,Karan Mehta,Wholesale,10,3408.15,15,34081.5,28969.274999999998,2025-01
+10497,2025-01-07,Whiteboard,Office,West,Ananya Rao,Wholesale,1,2411.09,10,2411.09,2169.981,2025-01
+10419,2025-01-07,LED Desk Lamp,Office,East,Priya Nair,Retail,5,931.44,10,4657.2,4191.48,2025-01
+10101,2025-01-08,Office Chair,Furniture,South,Priya Nair,Retail,1,6533.68,15,6533.68,5553.628,2025-01
+10404,2025-01-09,Whiteboard,Office,North,Vikram Shah,Wholesale,10,2374.22,5,23742.2,22555.09,2025-01
+10227,2025-01-09,Office Chair,Furniture,East,Ananya Rao,Wholesale,2,6650.39,15,13300.78,11305.663,2025-01
+10459,2025-01-10,LED Desk Lamp,Office,West,Karan Mehta,Wholesale,10,903.0,5,9030.0,8578.5,2025-01
+10634,2025-01-10,Webcam HD,Electronics,East,Ananya Rao,Retail,10,3536.27,5,35362.7,33594.564999999995,2025-01
+10512,2025-01-11,LED Desk Lamp,Office,North,Rohit Verma,Retail,1,908.09,0,908.09,908.09,2025-01
+10536,2025-01-12,Laptop Stand,Office,South,Ananya Rao,Wholesale,1,1282.79,15,1282.79,1090.3715,2025-01
+10307,2025-01-12,Office Chair,Furniture,West,Priya Nair,Retail,2,6549.89,0,13099.78,13099.78,2025-01
+10153,2025-01-13,Whiteboard,Office,East,Sneha Iyer,Retail,1,2532.84,5,2532.84,2406.198,2025-01
+10163,2025-01-14,Webcam HD,Electronics,South,Ananya Rao,Wholesale,2,3530.09,0,7060.18,7060.18,2025-01
+10137,2025-01-15,Office Chair,Furniture,North,Priya Nair,Retail,2,6407.02,5,12814.04,12173.338,2025-01
+10083,2025-01-16,Wireless Mouse,Electronics,South,Vikram Shah,Retail,1,778.11,5,778.11,739.2044999999999,2025-01
+10180,2025-01-16,Webcam HD,Electronics,North,Karan Mehta,Online,2,3455.68,5,6911.36,6565.7919999999995,2025-01
+10461,2025-01-16,Laptop Stand,Office,East,Ananya Rao,Wholesale,3,1333.66,0,4000.98,4000.98,2025-01
+10314,2025-01-17,Bluetooth Speaker,Electronics,West,Sneha Iyer,Retail,2,1843.18,0,3686.36,3686.36,2025-01
+10493,2025-01-18,Filing Cabinet,Furniture,South,Ananya Rao,Wholesale,1,6268.39,0,6268.39,6268.39,2025-01
+10315,2025-01-18,Ergonomic Keyboard,Electronics,West,Sneha Iyer,Online,1,2240.31,0,2240.31,2240.31,2025-01
+10119,2025-01-19,LED Desk Lamp,Office,West,Ananya Rao,Wholesale,2,883.11,20,1766.22,1412.976,2025-01
+10290,2025-01-20,LED Desk Lamp,Office,South,Rohit Verma,Retail,1,943.7,5,943.7,896.515,2025-01
+10598,2025-01-20,Standing Desk,Furniture,North,Ananya Rao,Retail,1,13381.45,10,13381.45,12043.305,2025-01
+10639,2025-01-20,Ergonomic Keyboard,Electronics,North,Ananya Rao,Wholesale,1,2391.42,10,2391.42,2152.2780000000002,2025-01
+10166,2025-01-23,Ergonomic Keyboard,Electronics,East,Rohit Verma,Online,1,2198.03,5,2198.03,2088.1285000000003,2025-01
+10130,2025-01-23,Notebook Set,Stationery,East,Karan Mehta,Wholesale,5,196.73,15,983.65,836.1025,2025-01
+10006,2025-01-23,Office Chair,Furniture,West,Sneha Iyer,Retail,5,6225.26,0,31126.3,31126.3,2025-01
+10569,2025-01-25,LED Desk Lamp,Office,West,Sneha Iyer,Wholesale,1,916.24,0,916.24,916.24,2025-01
+10558,2025-01-26,Office Chair,Furniture,South,Sneha Iyer,Online,5,6436.14,0,32180.7,32180.7,2025-01
+10160,2025-01-26,Wireless Mouse,Electronics,East,Vikram Shah,Retail,2,764.53,20,1529.06,1223.248,2025-01
+10324,2025-01-27,Laptop Stand,Office,East,Rohit Verma,Online,1,1347.53,0,1347.53,1347.53,2025-01
+10175,2025-01-27,Notebook Set,Stationery,East,Sneha Iyer,Wholesale,3,191.11,10,573.33,515.9970000000001,2025-01
+10407,2025-01-27,USB-C Cable,Electronics,West,Karan Mehta,Wholesale,2,296.88,0,593.76,593.76,2025-01
+10030,2025-01-28,Whiteboard,Office,North,Ananya Rao,Wholesale,3,2574.12,0,7722.36,7722.36,2025-01
+10525,2025-01-28,Whiteboard,Office,North,Unknown,Retail,1,2590.84,5,2590.84,2461.2980000000002,2025-01
+10483,2025-01-28,USB-C Cable,Electronics,North,Priya Nair,Retail,2,296.29,10,592.58,533.322,2025-01
+10505,2025-01-29,Standing Desk,Furniture,South,Ananya Rao,Wholesale,5,12525.38,20,62626.9,50101.520000000004,2025-01
+10463,2025-01-29,Filing Cabinet,Furniture,South,Sneha Iyer,Wholesale,3,6260.08,20,18780.24,15024.192000000003,2025-01
+10425,2025-01-30,Laptop Stand,Office,South,Ananya Rao,Wholesale,1,1292.94,10,1292.94,1163.6460000000002,2025-01
+10036,2025-01-30,Laptop Stand,Office,North,Karan Mehta,Wholesale,1,1240.56,5,1240.56,1178.532,2025-01
+10322,2025-01-30,Whiteboard,Office,West,Rohit Verma,Online,1,2471.12,0,2471.12,2471.12,2025-01
+10518,2025-01-30,Laptop Stand,Office,West,Karan Mehta,Wholesale,1,1327.74,15,1327.74,1128.579,2025-01
+10258,2025-01-31,Filing Cabinet,Furniture,South,Rohit Verma,Wholesale,10,5977.67,0,59776.7,59776.7,2025-01
+10397,2025-01-31,Notebook Set,Stationery,East,Karan Mehta,Retail,1,194.02,15,194.02,164.917,2025-01
+10034,2025-01-31,Notebook Set,Stationery,South,Rohit Verma,Retail,5,194.33,20,971.65,777.32,2025-01
+10551,2025-01-31,Filing Cabinet,Furniture,South,Ananya Rao,Wholesale,10,6180.33,15,61803.3,52532.805,2025-01
+10334,2025-01-31,Webcam HD,Electronics,North,Ananya Rao,Online,1,3591.49,5,3591.49,3411.9154999999996,2025-01
+10223,2025-02-02,Whiteboard,Office,North,Rohit Verma,Online,1,2531.98,10,2531.98,2278.782,2025-02
+10453,2025-02-03,Wireless Mouse,Electronics,South,Karan Mehta,Wholesale,1,766.4,20,766.4,613.12,2025-02
+10038,2025-02-04,Ergonomic Keyboard,Electronics,South,Rohit Verma,Retail,2,2317.14,0,4634.28,4634.28,2025-02
+10375,2025-02-04,Standing Desk,Furniture,East,Ananya Rao,Online,1,12378.41,0,12378.41,12378.41,2025-02
+10637,2025-02-05,Ergonomic Keyboard,Electronics,South,Rohit Verma,Wholesale,1,2209.01,0,2209.01,2209.01,2025-02
+10135,2025-02-05,Ergonomic Keyboard,Electronics,South,Karan Mehta,Online,2,2413.36,15,4826.72,4102.712,2025-02
+10010,2025-02-06,Webcam HD,Electronics,South,Sneha Iyer,Online,2,3381.22,5,6762.44,6424.317999999999,2025-02
+10250,2025-02-07,Webcam HD,Electronics,West,Rohit Verma,Online,3,3368.95,20,10106.85,8085.4800000000005,2025-02
+10104,2025-02-07,Whiteboard,Office,North,Vikram Shah,Retail,2,2395.34,0,4790.68,4790.68,2025-02
+10238,2025-02-08,Wireless Mouse,Electronics,West,Priya Nair,Online,1,835.18,0,835.18,835.18,2025-02
+10399,2025-02-08,Whiteboard,Office,North,Rohit Verma,Online,2,2547.66,0,5095.32,5095.32,2025-02
+10445,2025-02-08,Laptop Stand,Office,South,Vikram Shah,Online,1,1254.24,0,1254.24,1254.24,2025-02
+10545,2025-02-08,LED Desk Lamp,Office,North,Priya Nair,Online,2,895.11,0,1790.22,1790.22,2025-02
+10133,2025-02-08,USB-C Cable,Electronics,West,Priya Nair,Wholesale,5,303.48,20,1517.4,1213.92,2025-02
+10359,2025-02-09,Whiteboard,Office,East,Priya Nair,Retail,10,2522.44,0,25224.4,25224.4,2025-02
+10073,2025-02-09,Whiteboard,Office,East,Vikram Shah,Wholesale,3,2453.95,10,7361.85,6625.665000000001,2025-02
+10209,2025-02-09,USB-C Cable,Electronics,East,Ananya Rao,Online,1,303.84,20,303.84,243.072,2025-02
+10253,2025-02-10,Office Chair,Furniture,East,Vikram Shah,Online,2,6255.4,0,12510.8,12510.8,2025-02
+10235,2025-02-10,Notebook Set,Stationery,West,Sneha Iyer,Retail,2,195.44,0,390.88,390.88,2025-02
+10348,2025-02-10,Filing Cabinet,Furniture,East,Ananya Rao,Retail,5,5838.31,0,29191.55,29191.55,2025-02
+10284,2025-02-10,Filing Cabinet,Furniture,East,Rohit Verma,Online,2,6147.38,0,12294.76,12294.76,2025-02
+10008,2025-02-10,Office Chair,Furniture,South,Ananya Rao,Wholesale,2,6468.72,20,12937.44,10349.952000000001,2025-02
+10218,2025-02-11,Notebook Set,Stationery,East,Vikram Shah,Retail,3,207.57,20,622.71,498.16800000000006,2025-02
+10039,2025-02-11,Ergonomic Keyboard,Electronics,West,Karan Mehta,Online,3,2398.94,0,7196.82,7196.82,2025-02
+10487,2025-02-11,Office Chair,Furniture,West,Ananya Rao,Wholesale,5,6480.12,15,32400.6,27540.51,2025-02
+10022,2025-02-13,Bluetooth Speaker,Electronics,West,Ananya Rao,Online,1,1828.43,5,1828.43,1737.0085,2025-02
+10182,2025-02-13,Ergonomic Keyboard,Electronics,North,Vikram Shah,Retail,1,2339.0,0,2339.0,2339.0,2025-02
+10496,2025-02-14,Bluetooth Speaker,Electronics,West,Sneha Iyer,Wholesale,3,1966.72,10,5900.16,5310.144,2025-02
+10296,2025-02-14,Standing Desk,Furniture,West,Karan Mehta,Retail,1,13625.14,5,13625.14,12943.882999999998,2025-02
+10544,2025-02-15,Webcam HD,Electronics,North,Sneha Iyer,Online,10,3376.24,0,33762.4,33762.4,2025-02
+10199,2025-02-16,Webcam HD,Electronics,West,Rohit Verma,Online,1,3481.41,20,3481.41,2785.128,2025-02
+10620,2025-02-16,LED Desk Lamp,Office,West,Priya Nair,Online,1,913.62,20,913.62,730.8960000000001,2025-02
+10488,2025-02-16,Office Chair,Furniture,West,Vikram Shah,Wholesale,5,6414.12,5,32070.6,30467.069999999996,2025-02
+10549,2025-02-17,Filing Cabinet,Furniture,East,Priya Nair,Retail,1,5939.48,5,5939.48,5642.505999999999,2025-02
+10033,2025-02-17,Wireless Mouse,Electronics,South,Vikram Shah,Wholesale,10,797.51,20,7975.1,6380.080000000001,2025-02
+10173,2025-02-17,Bluetooth Speaker,Electronics,West,Ananya Rao,Online,3,1958.2,10,5874.6,5287.14,2025-02
+10047,2025-02-17,Wireless Mouse,Electronics,West,Priya Nair,Retail,1,785.7,0,785.7,785.7,2025-02
+10408,2025-02-18,Filing Cabinet,Furniture,North,Vikram Shah,Wholesale,1,5778.66,0,5778.66,5778.66,2025-02
+10170,2025-02-20,Notebook Set,Stationery,North,Karan Mehta,Online,2,197.61,0,395.22,395.22,2025-02
+10107,2025-02-20,Ergonomic Keyboard,Electronics,South,Karan Mehta,Retail,2,2335.88,0,4671.76,4671.76,2025-02
+10462,2025-02-21,USB-C Cable,Electronics,South,Karan Mehta,Retail,2,300.01,20,600.02,480.016,2025-02
+10498,2025-02-21,Ergonomic Keyboard,Electronics,North,Sneha Iyer,Retail,2,2383.48,0,4766.96,4766.96,2025-02
+10132,2025-02-21,Whiteboard,Office,West,Ananya Rao,Online,1,2476.5,15,2476.5,2105.025,2025-02
+10201,2025-02-22,Whiteboard,Office,East,Karan Mehta,Retail,1,2383.83,15,2383.83,2026.2555,2025-02
+10411,2025-02-22,Bluetooth Speaker,Electronics,East,Priya Nair,Wholesale,1,1876.73,20,1876.73,1501.384,2025-02
+10355,2025-02-22,Notebook Set,Stationery,North,Ananya Rao,Wholesale,1,200.93,20,200.93,160.74400000000003,2025-02
+10005,2025-02-22,Standing Desk,Furniture,North,Rohit Verma,Retail,3,13450.71,10,40352.13,36316.917,2025-02
+10440,2025-02-23,Office Chair,Furniture,South,Sneha Iyer,Retail,5,6493.82,0,32469.1,32469.1,2025-02
+10360,2025-02-24,Whiteboard,Office,South,Priya Nair,Retail,5,2457.07,10,12285.35,11056.815,2025-02
+10353,2025-02-24,Standing Desk,Furniture,North,Ananya Rao,Wholesale,10,12816.91,0,128169.1,128169.1,2025-02
+10058,2025-02-25,Wireless Mouse,Electronics,West,Priya Nair,Online,3,793.92,10,2381.76,2143.5840000000003,2025-02
+10376,2025-02-25,Webcam HD,Electronics,South,Karan Mehta,Retail,1,3517.16,0,3517.16,3517.16,2025-02
+10001,2025-02-27,Webcam HD,Electronics,North,Karan Mehta,Wholesale,2,3402.15,15,6804.3,5783.655,2025-02
+10021,2025-02-27,Wireless Mouse,Electronics,East,Priya Nair,Retail,1,778.3,10,778.3,700.47,2025-02
+10184,2025-02-28,LED Desk Lamp,Office,East,Rohit Verma,Retail,2,915.02,10,1830.04,1647.036,2025-02
+10124,2025-02-28,Laptop Stand,Office,West,Ananya Rao,Online,1,1298.79,15,1298.79,1103.9714999999999,2025-02
+10084,2025-02-28,Webcam HD,Electronics,South,Rohit Verma,Online,2,3592.39,0,7184.78,7184.78,2025-02
+10373,2025-03-01,Bluetooth Speaker,Electronics,South,Priya Nair,Wholesale,3,1890.52,0,5671.56,5671.56,2025-03
+10431,2025-03-01,Filing Cabinet,Furniture,South,Unknown,Online,1,5725.47,20,5725.47,4580.376,2025-03
+10155,2025-03-01,Whiteboard,Office,North,Vikram Shah,Online,1,2471.17,0,2471.17,2471.17,2025-03
+10560,2025-03-02,Standing Desk,Furniture,West,Karan Mehta,Online,1,12482.48,5,12482.48,11858.356,2025-03
+10630,2025-03-02,Filing Cabinet,Furniture,South,Rohit Verma,Wholesale,1,5987.91,5,5987.91,5688.514499999999,2025-03
+10243,2025-03-02,LED Desk Lamp,Office,East,Priya Nair,Online,10,873.34,10,8733.4,7860.0599999999995,2025-03
+10299,2025-03-02,Webcam HD,Electronics,West,Priya Nair,Retail,5,3564.11,15,17820.55,15147.467499999999,2025-03
+10428,2025-03-02,Office Chair,Furniture,North,Priya Nair,Wholesale,2,6514.5,0,13029.0,13029.0,2025-03
+10159,2025-03-04,Laptop Stand,Office,West,Ananya Rao,Online,2,1317.41,10,2634.82,2371.338,2025-03
+10451,2025-03-04,USB-C Cable,Electronics,North,Ananya Rao,Retail,1,289.97,5,289.97,275.4715,2025-03
+10454,2025-03-04,Standing Desk,Furniture,North,Rohit Verma,Retail,1,13550.33,5,13550.33,12872.8135,2025-03
+10247,2025-03-04,Laptop Stand,Office,South,Vikram Shah,Retail,10,1237.46,10,12374.6,11137.140000000001,2025-03
+10079,2025-03-07,Whiteboard,Office,North,Rohit Verma,Online,1,2395.03,5,2395.03,2275.2785,2025-03
+10050,2025-03-07,Notebook Set,Stationery,North,Priya Nair,Wholesale,1,206.94,0,206.94,206.94,2025-03
+10570,2025-03-07,Filing Cabinet,Furniture,North,Rohit Verma,Online,3,6001.47,5,18004.41,17104.1895,2025-03
+10468,2025-03-08,Laptop Stand,Office,East,Karan Mehta,Retail,3,1241.79,0,3725.37,3725.37,2025-03
+10553,2025-03-08,Filing Cabinet,Furniture,West,Rohit Verma,Retail,5,5963.42,0,29817.1,29817.1,2025-03
+10354,2025-03-09,Bluetooth Speaker,Electronics,North,Vikram Shah,Wholesale,10,1909.82,10,19098.2,17188.38,2025-03
+10210,2025-03-09,Ergonomic Keyboard,Electronics,West,Vikram Shah,Retail,1,2375.18,20,2375.18,1900.144,2025-03
+10387,2025-03-11,Whiteboard,Office,South,Rohit Verma,Online,10,2476.29,5,24762.9,23524.755,2025-03
+10074,2025-03-12,Bluetooth Speaker,Electronics,South,Vikram Shah,Wholesale,1,1938.2,0,1938.2,1938.2,2025-03
+10572,2025-03-12,USB-C Cable,Electronics,West,Sneha Iyer,Online,2,309.26,10,618.52,556.668,2025-03
+10548,2025-03-12,Wireless Mouse,Electronics,South,Priya Nair,Wholesale,10,835.36,0,8353.6,8353.6,2025-03
+10270,2025-03-12,Wireless Mouse,Electronics,East,Rohit Verma,Online,10,770.95,10,7709.5,6938.55,2025-03
+10458,2025-03-12,Notebook Set,Stationery,West,Vikram Shah,Online,2,201.6,20,403.2,322.56,2025-03
+10386,2025-03-13,Office Chair,Furniture,South,Priya Nair,Wholesale,1,6736.55,0,6736.55,6736.55,2025-03
+10150,2025-03-14,Bluetooth Speaker,Electronics,South,Karan Mehta,Online,5,1987.73,20,9938.65,7950.92,2025-03
+10261,2025-03-14,Laptop Stand,Office,North,Ananya Rao,Wholesale,5,1346.3,5,6731.5,6394.924999999999,2025-03
+10205,2025-03-14,Webcam HD,Electronics,East,Priya Nair,Online,5,3369.17,15,16845.85,14318.972499999998,2025-03
+10224,2025-03-15,Laptop Stand,Office,East,Rohit Verma,Retail,3,1265.3,5,3795.9,3606.105,2025-03
+10259,2025-03-15,Ergonomic Keyboard,Electronics,East,Karan Mehta,Wholesale,3,2408.29,0,7224.87,7224.87,2025-03
+10500,2025-03-15,Notebook Set,Stationery,West,Ananya Rao,Wholesale,3,202.79,0,608.37,608.37,2025-03
+10330,2025-03-16,Laptop Stand,Office,North,Priya Nair,Online,5,1272.4,0,6362.0,6362.0,2025-03
+10578,2025-03-16,Office Chair,Furniture,North,Karan Mehta,Wholesale,2,6663.81,0,13327.62,13327.62,2025-03
+10131,2025-03-19,Webcam HD,Electronics,West,Ananya Rao,Retail,3,3628.36,20,10885.08,8708.064,2025-03
+10490,2025-03-19,Wireless Mouse,Electronics,North,Ananya Rao,Online,3,823.62,5,2470.86,2347.317,2025-03
+10352,2025-03-20,Office Chair,Furniture,West,Karan Mehta,Online,1,6654.75,0,6654.75,6654.75,2025-03
+10176,2025-03-21,Laptop Stand,Office,West,Vikram Shah,Retail,3,1343.86,0,4031.58,4031.58,2025-03
+10586,2025-03-21,Filing Cabinet,Furniture,North,Vikram Shah,Wholesale,1,6163.17,15,6163.17,5238.6945,2025-03
+10045,2025-03-21,LED Desk Lamp,Office,East,Priya Nair,Online,2,918.56,0,1837.12,1837.12,2025-03
+10181,2025-03-22,Standing Desk,Furniture,East,Priya Nair,Online,3,13358.86,10,40076.58,36068.922000000006,2025-03
+10141,2025-03-22,LED Desk Lamp,Office,North,Rohit Verma,Wholesale,2,911.49,5,1822.98,1731.831,2025-03
+10262,2025-03-23,Laptop Stand,Office,East,Sneha Iyer,Online,3,1258.71,0,3776.13,3776.13,2025-03
+10481,2025-03-24,Notebook Set,Stationery,North,Sneha Iyer,Retail,3,200.87,10,602.61,542.349,2025-03
+10649,2025-03-24,Filing Cabinet,Furniture,North,Vikram Shah,Online,5,6170.62,20,30853.1,24682.48,2025-03
+10009,2025-03-25,Standing Desk,Furniture,East,Priya Nair,Retail,2,13261.35,15,26522.7,22544.295,2025-03
+10023,2025-03-26,LED Desk Lamp,Office,East,Sneha Iyer,Online,5,940.75,10,4703.75,4233.375,2025-03
+10211,2025-03-26,Ergonomic Keyboard,Electronics,West,Ananya Rao,Wholesale,3,2339.55,0,7018.65,7018.65,2025-03
+10633,2025-03-27,Wireless Mouse,Electronics,East,Vikram Shah,Online,5,806.94,10,4034.7,3631.23,2025-03
+10430,2025-03-27,Ergonomic Keyboard,Electronics,East,Vikram Shah,Wholesale,1,2389.64,15,2389.64,2031.1939999999997,2025-03
+10529,2025-03-28,Laptop Stand,Office,South,Rohit Verma,Retail,1,1313.87,15,1313.87,1116.7894999999999,2025-03
+10065,2025-03-28,Whiteboard,Office,North,Priya Nair,Online,3,2397.39,20,7192.17,5753.736000000001,2025-03
+10333,2025-03-28,Standing Desk,Furniture,South,Karan Mehta,Online,10,12588.29,10,125882.9,113294.61,2025-03
+10255,2025-03-29,USB-C Cable,Electronics,East,Sneha Iyer,Retail,1,286.48,15,286.48,243.508,2025-03
+10635,2025-03-29,Whiteboard,Office,South,Rohit Verma,Online,1,2572.62,20,2572.62,2058.096,2025-03
+10108,2025-03-30,Laptop Stand,Office,North,Vikram Shah,Retail,5,1292.57,10,6462.85,5816.5650000000005,2025-03
+10063,2025-03-31,Webcam HD,Electronics,East,Rohit Verma,Online,1,3430.38,0,3430.38,3430.38,2025-03
+10319,2025-03-31,Filing Cabinet,Furniture,West,Sneha Iyer,Wholesale,1,6282.33,15,6282.33,5339.9805,2025-03
+10229,2025-03-31,Webcam HD,Electronics,West,Karan Mehta,Wholesale,1,3607.99,0,3607.99,3607.99,2025-03
+10464,2025-04-01,USB-C Cable,Electronics,South,Sneha Iyer,Wholesale,3,311.38,0,934.14,934.14,2025-04
+10311,2025-04-02,Bluetooth Speaker,Electronics,West,Sneha Iyer,Retail,2,1962.58,20,3925.16,3140.128,2025-04
+10552,2025-04-03,Whiteboard,Office,West,Priya Nair,Online,1,2589.61,20,2589.61,2071.688,2025-04
+10179,2025-04-03,Wireless Mouse,Electronics,South,Sneha Iyer,Online,5,764.61,15,3823.05,3249.5925,2025-04
+10093,2025-04-04,Standing Desk,Furniture,West,Vikram Shah,Wholesale,2,12791.46,10,25582.92,23024.628,2025-04
+10103,2025-04-05,Standing Desk,Furniture,North,Priya Nair,Wholesale,1,13417.72,5,13417.72,12746.833999999999,2025-04
+10291,2025-04-06,Whiteboard,Office,East,Ananya Rao,Retail,2,2515.98,0,5031.96,5031.96,2025-04
+10584,2025-04-06,Bluetooth Speaker,Electronics,South,Karan Mehta,Online,1,1875.68,5,1875.68,1781.896,2025-04
+10380,2025-04-06,LED Desk Lamp,Office,East,Priya Nair,Retail,10,864.29,15,8642.9,7346.464999999999,2025-04
+10535,2025-04-07,Standing Desk,Furniture,South,Rohit Verma,Retail,2,12640.65,0,25281.3,25281.3,2025-04
+10417,2025-04-07,LED Desk Lamp,Office,West,Priya Nair,Online,1,924.51,20,924.51,739.6080000000001,2025-04
+10277,2025-04-08,Bluetooth Speaker,Electronics,North,Rohit Verma,Wholesale,5,1832.81,15,9164.05,7789.442499999999,2025-04
+10029,2025-04-08,Notebook Set,Stationery,North,Ananya Rao,Online,5,196.1,5,980.5,931.4749999999999,2025-04
+10326,2025-04-08,Laptop Stand,Office,North,Karan Mehta,Wholesale,2,1324.41,15,2648.82,2251.4970000000003,2025-04
+10295,2025-04-09,Webcam HD,Electronics,South,Sneha Iyer,Online,5,3613.41,10,18067.05,16260.345,2025-04
+10031,2025-04-09,Laptop Stand,Office,South,Sneha Iyer,Wholesale,1,1288.85,0,1288.85,1288.85,2025-04
+10494,2025-04-09,Laptop Stand,Office,South,Ananya Rao,Wholesale,1,1362.43,5,1362.43,1294.3085,2025-04
+10213,2025-04-10,Whiteboard,Office,East,Karan Mehta,Online,10,2489.42,0,24894.2,24894.2,2025-04
+10267,2025-04-10,LED Desk Lamp,Office,East,Sneha Iyer,Wholesale,1,888.78,5,888.78,844.3409999999999,2025-04
+10020,2025-04-12,Ergonomic Keyboard,Electronics,South,Priya Nair,Retail,1,2321.75,5,2321.75,2205.6625,2025-04
+10194,2025-04-12,Office Chair,Furniture,South,Sneha Iyer,Retail,1,6289.18,20,6289.18,5031.344000000001,2025-04
+10362,2025-04-13,Filing Cabinet,Furniture,West,Priya Nair,Retail,5,6280.19,0,31400.95,31400.95,2025-04
+10186,2025-04-15,Wireless Mouse,Electronics,East,Vikram Shah,Retail,2,782.18,0,1564.36,1564.36,2025-04
+10161,2025-04-17,LED Desk Lamp,Office,South,Vikram Shah,Wholesale,1,924.95,10,924.95,832.455,2025-04
+10631,2025-04-18,Whiteboard,Office,South,Karan Mehta,Wholesale,1,2434.94,0,2434.94,2434.94,2025-04
+10511,2025-04-20,Ergonomic Keyboard,Electronics,South,Karan Mehta,Retail,2,2245.91,5,4491.82,4267.228999999999,2025-04
+10567,2025-04-21,Notebook Set,Stationery,West,Vikram Shah,Online,3,191.19,5,573.57,544.8915000000001,2025-04
+10421,2025-04-21,Office Chair,Furniture,North,Ananya Rao,Wholesale,2,6582.56,10,13165.12,11848.608,2025-04
+10467,2025-04-23,Ergonomic Keyboard,Electronics,North,Sneha Iyer,Wholesale,1,2260.32,10,2260.32,2034.2880000000002,2025-04
+10054,2025-04-24,Whiteboard,Office,South,Rohit Verma,Wholesale,2,2579.1,20,5158.2,4126.56,2025-04
+10435,2025-04-25,USB-C Cable,Electronics,North,Rohit Verma,Retail,10,309.94,20,3099.4,2479.5200000000004,2025-04
+10055,2025-04-25,Laptop Stand,Office,North,Karan Mehta,Retail,5,1276.69,20,6383.45,5106.76,2025-04
+10350,2025-04-27,Whiteboard,Office,East,Sneha Iyer,Wholesale,5,2420.47,10,12102.35,10892.115,2025-04
+10491,2025-04-27,Ergonomic Keyboard,Electronics,North,Rohit Verma,Online,5,2406.05,15,12030.25,10225.7125,2025-04
+10027,2025-04-28,Wireless Mouse,Electronics,North,Ananya Rao,Wholesale,1,800.13,0,800.13,800.13,2025-04
+10331,2025-04-28,Standing Desk,Furniture,West,Sneha Iyer,Retail,10,13064.83,15,130648.3,111051.055,2025-04
+10580,2025-05-02,Notebook Set,Stationery,East,Karan Mehta,Online,1,207.49,5,207.49,197.1155,2025-05
+10052,2025-05-02,USB-C Cable,Electronics,South,Vikram Shah,Wholesale,1,289.41,0,289.41,289.41,2025-05
+10123,2025-05-03,Ergonomic Keyboard,Electronics,South,Priya Nair,Online,1,2311.01,0,2311.01,2311.01,2025-05
+10087,2025-05-05,Webcam HD,Electronics,North,Karan Mehta,Wholesale,1,3602.65,10,3602.65,3242.385,2025-05
+10357,2025-05-05,LED Desk Lamp,Office,South,Karan Mehta,Wholesale,1,866.53,0,866.53,866.53,2025-05
+10191,2025-05-05,Bluetooth Speaker,Electronics,West,Sneha Iyer,Wholesale,1,1879.21,0,1879.21,1879.21,2025-05
+10432,2025-05-06,Wireless Mouse,Electronics,North,Rohit Verma,Wholesale,5,832.58,0,4162.9,4162.9,2025-05
+10138,2025-05-06,USB-C Cable,Electronics,West,Sneha Iyer,Online,1,289.13,0,289.13,289.13,2025-05
+10313,2025-05-07,Laptop Stand,Office,West,Priya Nair,Retail,2,1258.53,15,2517.06,2139.5009999999997,2025-05
+10398,2025-05-07,Standing Desk,Furniture,West,Rohit Verma,Retail,2,13165.14,5,26330.28,25013.765999999996,2025-05
+10297,2025-05-08,Standing Desk,Furniture,North,Priya Nair,Wholesale,2,12929.76,0,25859.52,25859.52,2025-05
+10477,2025-05-08,Laptop Stand,Office,North,Priya Nair,Wholesale,1,1327.63,0,1327.63,1327.63,2025-05
+10532,2025-05-08,Webcam HD,Electronics,South,Karan Mehta,Wholesale,2,3369.16,5,6738.32,6401.4039999999995,2025-05
+10416,2025-05-08,Bluetooth Speaker,Electronics,East,Karan Mehta,Retail,2,1843.06,10,3686.12,3317.508,2025-05
+10242,2025-05-08,Office Chair,Furniture,North,Ananya Rao,Online,1,6498.38,5,6498.38,6173.461,2025-05
+10032,2025-05-08,Whiteboard,Office,North,Rohit Verma,Online,1,2386.69,10,2386.69,2148.021,2025-05
+10051,2025-05-08,Webcam HD,Electronics,North,Priya Nair,Online,5,3664.8,15,18324.0,15575.4,2025-05
+10142,2025-05-09,Filing Cabinet,Furniture,West,Priya Nair,Retail,5,6210.97,0,31054.85,31054.85,2025-05
+10608,2025-05-10,Ergonomic Keyboard,Electronics,South,Ananya Rao,Retail,1,2379.78,10,2379.78,2141.802,2025-05
+10513,2025-05-10,Laptop Stand,Office,East,Karan Mehta,Online,2,1289.1,5,2578.2,2449.2899999999995,2025-05
+10172,2025-05-11,Webcam HD,Electronics,East,Vikram Shah,Online,10,3347.54,20,33475.4,26780.320000000003,2025-05
+10149,2025-05-12,USB-C Cable,Electronics,West,Priya Nair,Online,3,308.1,5,924.3,878.0849999999999,2025-05
+10221,2025-05-12,Wireless Mouse,Electronics,South,Vikram Shah,Online,5,767.93,0,3839.65,3839.65,2025-05
+10294,2025-05-12,Webcam HD,Electronics,South,Ananya Rao,Online,3,3600.74,10,10802.22,9721.998,2025-05
+10332,2025-05-12,Standing Desk,Furniture,West,Karan Mehta,Online,10,12948.08,15,129480.8,110058.68,2025-05
+10072,2025-05-13,Whiteboard,Office,South,Karan Mehta,Wholesale,10,2530.67,0,25306.7,25306.7,2025-05
+10542,2025-05-15,Laptop Stand,Office,South,Priya Nair,Online,5,1272.42,0,6362.1,6362.1,2025-05
+10048,2025-05-15,Webcam HD,Electronics,South,Karan Mehta,Wholesale,5,3520.31,0,17601.55,17601.55,2025-05
+10489,2025-05-15,Wireless Mouse,Electronics,West,Rohit Verma,Wholesale,2,825.93,10,1651.86,1486.674,2025-05
+10014,2025-05-15,LED Desk Lamp,Office,West,Sneha Iyer,Wholesale,3,873.77,0,2621.31,2621.31,2025-05
+10042,2025-05-16,LED Desk Lamp,Office,South,Priya Nair,Retail,2,887.27,0,1774.54,1774.54,2025-05
+10266,2025-05-16,USB-C Cable,Electronics,East,Rohit Verma,Wholesale,1,296.03,10,296.03,266.42699999999996,2025-05
+10256,2025-05-16,Ergonomic Keyboard,Electronics,South,Sneha Iyer,Wholesale,1,2298.55,15,2298.55,1953.7675000000002,2025-05
+10499,2025-05-16,Notebook Set,Stationery,West,Karan Mehta,Wholesale,10,189.8,0,1898.0,1898.0,2025-05
+10164,2025-05-16,USB-C Cable,Electronics,North,Vikram Shah,Online,5,299.78,15,1498.9,1274.065,2025-05
+10178,2025-05-17,Filing Cabinet,Furniture,North,Vikram Shah,Wholesale,2,6251.88,0,12503.76,12503.76,2025-05
+10434,2025-05-19,Standing Desk,Furniture,North,Sneha Iyer,Wholesale,1,13001.65,0,13001.65,13001.65,2025-05
+10113,2025-05-20,Notebook Set,Stationery,West,Rohit Verma,Retail,1,206.75,15,206.75,175.73749999999998,2025-05
+10216,2025-05-20,USB-C Cable,Electronics,West,Sneha Iyer,Retail,5,286.79,0,1433.95,1433.95,2025-05
+10456,2025-05-21,USB-C Cable,Electronics,East,Rohit Verma,Retail,1,302.41,10,302.41,272.16900000000004,2025-05
+10162,2025-05-22,Wireless Mouse,Electronics,South,Vikram Shah,Online,2,822.85,0,1645.7,1645.7,2025-05
+10094,2025-05-22,Filing Cabinet,Furniture,North,Sneha Iyer,Retail,1,5843.84,5,5843.84,5551.648,2025-05
+10056,2025-05-23,Bluetooth Speaker,Electronics,East,Karan Mehta,Online,5,1933.09,20,9665.45,7732.360000000001,2025-05
+10092,2025-05-23,Bluetooth Speaker,Electronics,West,Vikram Shah,Wholesale,5,1867.93,5,9339.65,8872.6675,2025-05
+10281,2025-05-23,Laptop Stand,Office,East,Vikram Shah,Wholesale,2,1325.62,15,2651.24,2253.5539999999996,2025-05
+10177,2025-05-23,Bluetooth Speaker,Electronics,South,Rohit Verma,Online,1,1919.7,15,1919.7,1631.745,2025-05
+10502,2025-05-24,Office Chair,Furniture,West,Karan Mehta,Online,1,6806.08,0,6806.08,6806.08,2025-05
+10268,2025-05-24,LED Desk Lamp,Office,North,Vikram Shah,Retail,5,887.6,0,4438.0,4438.0,2025-05
+10516,2025-05-25,Ergonomic Keyboard,Electronics,East,Karan Mehta,Retail,10,2198.73,0,21987.3,21987.3,2025-05
+10643,2025-05-26,Bluetooth Speaker,Electronics,West,Priya Nair,Retail,1,1938.72,20,1938.72,1550.976,2025-05
+10611,2025-05-26,Bluetooth Speaker,Electronics,North,Vikram Shah,Wholesale,10,1889.63,10,18896.3,17006.67,2025-05
+10292,2025-05-26,Standing Desk,Furniture,West,Karan Mehta,Online,10,13505.0,0,135050.0,135050.0,2025-05
+10309,2025-05-27,Wireless Mouse,Electronics,West,Vikram Shah,Retail,5,788.97,5,3944.85,3747.6074999999996,2025-05
+10576,2025-05-27,LED Desk Lamp,Office,West,Ananya Rao,Online,1,856.32,0,856.32,856.32,2025-05
+10035,2025-05-27,Whiteboard,Office,West,Karan Mehta,Online,10,2412.73,0,24127.3,24127.3,2025-05
+10145,2025-05-27,Whiteboard,Office,South,Sneha Iyer,Wholesale,2,2533.14,10,5066.28,4559.652,2025-05
+10232,2025-05-27,Laptop Stand,Office,East,Ananya Rao,Online,3,1269.54,20,3808.62,3046.896,2025-05
+10122,2025-05-28,USB-C Cable,Electronics,West,Karan Mehta,Wholesale,1,284.91,15,284.91,242.17350000000002,2025-05
+10246,2025-05-29,LED Desk Lamp,Office,East,Vikram Shah,Online,1,925.4,10,925.4,832.86,2025-05
+10396,2025-05-29,Office Chair,Furniture,East,Sneha Iyer,Online,1,6262.17,20,6262.17,5009.736000000001,2025-05
+10257,2025-05-29,LED Desk Lamp,Office,East,Rohit Verma,Retail,5,880.79,0,4403.95,4403.95,2025-05
+10444,2025-05-30,Laptop Stand,Office,East,Priya Nair,Wholesale,3,1275.37,0,3826.11,3826.11,2025-05
+10389,2025-05-30,Laptop Stand,Office,North,Priya Nair,Retail,2,1255.9,5,2511.8,2386.21,2025-05
+10109,2025-05-30,Whiteboard,Office,North,Vikram Shah,Wholesale,2,2549.73,5,5099.46,4844.487,2025-05
+10522,2025-05-31,USB-C Cable,Electronics,North,Rohit Verma,Retail,2,305.73,10,611.46,550.3140000000001,2025-05
+10480,2025-05-31,Wireless Mouse,Electronics,North,Priya Nair,Wholesale,1,764.98,0,764.98,764.98,2025-05
+10018,2025-05-31,Bluetooth Speaker,Electronics,West,Vikram Shah,Wholesale,1,1985.18,15,1985.18,1687.403,2025-05
+10096,2025-05-31,Bluetooth Speaker,Electronics,South,Rohit Verma,Online,2,1862.2,10,3724.4,3351.96,2025-05
+10473,2025-05-31,Filing Cabinet,Furniture,South,Vikram Shah,Online,1,6268.23,10,6268.23,5641.407,2025-05
+10519,2025-06-01,Whiteboard,Office,East,Rohit Verma,Wholesale,5,2558.16,10,12790.8,11511.72,2025-06
+10526,2025-06-02,LED Desk Lamp,Office,West,Ananya Rao,Retail,1,943.26,0,943.26,943.26,2025-06
+10312,2025-06-02,Wireless Mouse,Electronics,West,Karan Mehta,Online,5,801.55,20,4007.75,3206.2000000000003,2025-06
+10503,2025-06-03,USB-C Cable,Electronics,West,Priya Nair,Wholesale,5,302.14,0,1510.7,1510.7,2025-06
+10154,2025-06-04,Filing Cabinet,Furniture,West,Ananya Rao,Retail,1,6266.71,0,6266.71,6266.71,2025-06
+10222,2025-06-04,Laptop Stand,Office,North,Unknown,Retail,5,1317.05,10,6585.25,5926.725,2025-06
+10298,2025-06-04,Standing Desk,Furniture,North,Priya Nair,Online,3,13249.58,0,39748.74,39748.74,2025-06
+10252,2025-06-05,USB-C Cable,Electronics,South,Vikram Shah,Wholesale,2,294.4,10,588.8,529.92,2025-06
+10437,2025-06-05,Ergonomic Keyboard,Electronics,South,Rohit Verma,Wholesale,10,2413.44,20,24134.4,19307.52,2025-06
+10612,2025-06-06,Webcam HD,Electronics,South,Sneha Iyer,Online,3,3606.66,5,10819.98,10278.981,2025-06
+10098,2025-06-06,Office Chair,Furniture,East,Vikram Shah,Retail,2,6379.12,15,12758.24,10844.503999999999,2025-06
+10447,2025-06-07,Whiteboard,Office,West,Priya Nair,Retail,1,2413.44,15,2413.44,2051.424,2025-06
+10426,2025-06-08,Wireless Mouse,Electronics,South,Ananya Rao,Retail,1,815.1,0,815.1,815.1,2025-06
+10206,2025-06-08,Bluetooth Speaker,Electronics,West,Karan Mehta,Wholesale,1,1931.31,20,1931.31,1545.048,2025-06
+10208,2025-06-08,Standing Desk,Furniture,South,Vikram Shah,Wholesale,10,12598.64,0,125986.4,125986.4,2025-06
+10231,2025-06-08,Standing Desk,Furniture,West,Sneha Iyer,Wholesale,2,12396.65,15,24793.3,21074.305,2025-06
+10061,2025-06-10,Ergonomic Keyboard,Electronics,North,Karan Mehta,Wholesale,2,2337.37,0,4674.74,4674.74,2025-06
+10547,2025-06-10,Webcam HD,Electronics,West,Karan Mehta,Retail,1,3621.9,0,3621.9,3621.9,2025-06
+10189,2025-06-10,Bluetooth Speaker,Electronics,West,Sneha Iyer,Wholesale,5,1859.03,5,9295.15,8830.3925,2025-06
+10040,2025-06-10,Webcam HD,Electronics,South,Priya Nair,Wholesale,1,3559.07,0,3559.07,3559.07,2025-06
+10600,2025-06-11,Notebook Set,Stationery,North,Rohit Verma,Online,1,199.69,15,199.69,169.7365,2025-06
+10041,2025-06-11,Whiteboard,Office,North,Ananya Rao,Wholesale,1,2392.36,0,2392.36,2392.36,2025-06
+10476,2025-06-13,Standing Desk,Furniture,South,Karan Mehta,Retail,3,12929.62,0,38788.86,38788.86,2025-06
+10289,2025-06-14,Office Chair,Furniture,East,Karan Mehta,Retail,1,6597.98,0,6597.98,6597.98,2025-06
+10625,2025-06-15,Webcam HD,Electronics,North,Karan Mehta,Online,2,3616.17,0,7232.34,7232.34,2025-06
+10517,2025-06-16,Webcam HD,Electronics,East,Priya Nair,Online,2,3389.96,10,6779.92,6101.928,2025-06
+10190,2025-06-16,Wireless Mouse,Electronics,South,Sneha Iyer,Wholesale,3,766.09,20,2298.27,1838.616,2025-06
+10271,2025-06-17,USB-C Cable,Electronics,East,Vikram Shah,Wholesale,2,301.8,10,603.6,543.24,2025-06
+10436,2025-06-17,Office Chair,Furniture,North,Sneha Iyer,Wholesale,1,6413.81,0,6413.81,6413.81,2025-06
+10361,2025-06-18,Notebook Set,Stationery,West,Priya Nair,Wholesale,1,195.03,10,195.03,175.52700000000002,2025-06
+10118,2025-06-18,USB-C Cable,Electronics,West,Karan Mehta,Wholesale,2,303.86,5,607.72,577.334,2025-06
+10323,2025-06-19,Laptop Stand,Office,North,Rohit Verma,Wholesale,1,1303.63,20,1303.63,1042.9040000000002,2025-06
+10343,2025-06-19,Webcam HD,Electronics,North,Sneha Iyer,Retail,2,3398.02,20,6796.04,5436.832,2025-06
+10590,2025-06-19,Standing Desk,Furniture,East,Priya Nair,Retail,10,13644.57,20,136445.7,109156.56000000001,2025-06
+10563,2025-06-19,Whiteboard,Office,West,Karan Mehta,Online,3,2552.96,0,7658.88,7658.88,2025-06
+10273,2025-06-19,Standing Desk,Furniture,North,Rohit Verma,Online,2,13384.75,15,26769.5,22754.075,2025-06
+10057,2025-06-19,LED Desk Lamp,Office,North,Ananya Rao,Wholesale,1,906.25,0,906.25,906.25,2025-06
+10081,2025-06-22,Standing Desk,Furniture,West,Unknown,Wholesale,2,13434.35,5,26868.7,25525.265,2025-06
+10171,2025-06-23,Notebook Set,Stationery,West,Rohit Verma,Wholesale,1,195.27,0,195.27,195.27,2025-06
+10192,2025-06-23,Filing Cabinet,Furniture,South,Priya Nair,Retail,1,6005.29,0,6005.29,6005.29,2025-06
+10127,2025-06-24,Notebook Set,Stationery,East,Ananya Rao,Wholesale,2,205.72,10,411.44,370.296,2025-06
+10308,2025-06-26,Notebook Set,Stationery,North,Sneha Iyer,Retail,1,208.67,5,208.67,198.23649999999998,2025-06
+10607,2025-06-26,Filing Cabinet,Furniture,South,Rohit Verma,Online,1,5795.61,0,5795.61,5795.61,2025-06
+10648,2025-06-26,Ergonomic Keyboard,Electronics,West,Karan Mehta,Retail,1,2355.97,5,2355.97,2238.1715,2025-06
+10088,2025-06-27,Wireless Mouse,Electronics,West,Karan Mehta,Wholesale,1,799.48,0,799.48,799.48,2025-06
+10427,2025-06-27,Whiteboard,Office,East,Vikram Shah,Wholesale,1,2561.42,20,2561.42,2049.136,2025-06
+10217,2025-06-28,Whiteboard,Office,North,Rohit Verma,Retail,5,2499.5,0,12497.5,12497.5,2025-06
+10413,2025-06-29,Whiteboard,Office,South,Karan Mehta,Online,1,2603.93,10,2603.93,2343.537,2025-06
+10328,2025-07-03,Webcam HD,Electronics,East,Priya Nair,Wholesale,10,3487.1,20,34871.0,27896.800000000003,2025-07
+10158,2025-07-05,Laptop Stand,Office,North,Karan Mehta,Wholesale,3,1241.92,0,3725.76,3725.76,2025-07
+10121,2025-07-05,LED Desk Lamp,Office,West,Karan Mehta,Wholesale,1,872.35,10,872.35,785.115,2025-07
+10240,2025-07-05,Standing Desk,Furniture,West,Sneha Iyer,Retail,1,13231.76,0,13231.76,13231.76,2025-07
+10303,2025-07-05,Filing Cabinet,Furniture,North,Sneha Iyer,Retail,1,6196.23,10,6196.23,5576.607,2025-07
+10364,2025-07-06,Notebook Set,Stationery,North,Sneha Iyer,Retail,1,202.62,10,202.62,182.358,2025-07
+10420,2025-07-07,Notebook Set,Stationery,South,Rohit Verma,Retail,1,200.74,0,200.74,200.74,2025-07
+10269,2025-07-07,LED Desk Lamp,Office,South,Vikram Shah,Online,5,899.01,0,4495.05,4495.05,2025-07
+10151,2025-07-07,LED Desk Lamp,Office,North,Rohit Verma,Retail,2,902.29,5,1804.58,1714.3509999999999,2025-07
+10248,2025-07-08,Ergonomic Keyboard,Electronics,West,Sneha Iyer,Retail,1,2199.17,5,2199.17,2089.2115,2025-07
+10531,2025-07-11,Filing Cabinet,Furniture,North,Priya Nair,Online,2,5709.8,0,11419.6,11419.6,2025-07
+10336,2025-07-11,Whiteboard,Office,North,Sneha Iyer,Online,10,2538.81,0,25388.1,25388.1,2025-07
+10479,2025-07-12,LED Desk Lamp,Office,North,Rohit Verma,Online,2,868.67,0,1737.34,1737.34,2025-07
+10129,2025-07-13,LED Desk Lamp,Office,West,Priya Nair,Retail,2,905.45,0,1810.9,1810.9,2025-07
+10310,2025-07-13,Whiteboard,Office,West,Ananya Rao,Online,1,2537.37,0,2537.37,2537.37,2025-07
+10351,2025-07-14,Webcam HD,Electronics,North,Sneha Iyer,Wholesale,2,3573.57,0,7147.14,7147.14,2025-07
+10139,2025-07-15,Ergonomic Keyboard,Electronics,South,Rohit Verma,Online,1,2237.43,15,2237.43,1901.8154999999997,2025-07
+10143,2025-07-15,Laptop Stand,Office,East,Sneha Iyer,Wholesale,2,1236.9,20,2473.8,1979.0400000000002,2025-07
+10320,2025-07-15,Webcam HD,Electronics,East,Karan Mehta,Wholesale,5,3376.26,5,16881.3,16037.234999999999,2025-07
+10603,2025-07-15,Whiteboard,Office,West,Karan Mehta,Retail,10,2413.12,0,24131.2,24131.2,2025-07
+10415,2025-07-16,Filing Cabinet,Furniture,East,Rohit Verma,Wholesale,1,5847.7,15,5847.7,4970.545,2025-07
+10126,2025-07-16,USB-C Cable,Electronics,South,Sneha Iyer,Online,1,309.88,0,309.88,309.88,2025-07
+10550,2025-07-17,Office Chair,Furniture,West,Rohit Verma,Online,1,6247.53,15,6247.53,5310.4005,2025-07
+10593,2025-07-17,Bluetooth Speaker,Electronics,East,Sneha Iyer,Online,2,1808.74,10,3617.48,3255.732,2025-07
+10059,2025-07-17,Bluetooth Speaker,Electronics,South,Priya Nair,Retail,5,1804.37,20,9021.85,7217.4800000000005,2025-07
+10356,2025-07-17,Standing Desk,Furniture,North,Priya Nair,Wholesale,5,13361.89,15,66809.45,56788.032499999994,2025-07
+10076,2025-07-19,Notebook Set,Stationery,North,Sneha Iyer,Wholesale,10,189.17,0,1891.7,1891.7,2025-07
+10077,2025-07-19,Office Chair,Furniture,West,Sneha Iyer,Online,2,6491.35,0,12982.7,12982.7,2025-07
+10619,2025-07-20,Standing Desk,Furniture,South,Sneha Iyer,Online,2,12523.08,10,25046.16,22541.544,2025-07
+10604,2025-07-20,USB-C Cable,Electronics,East,Karan Mehta,Retail,2,304.3,20,608.6,486.88000000000005,2025-07
+10144,2025-07-22,Webcam HD,Electronics,East,Ananya Rao,Online,1,3642.67,15,3642.67,3096.2695,2025-07
+10449,2025-07-22,Standing Desk,Furniture,North,Karan Mehta,Wholesale,2,13415.08,0,26830.16,26830.16,2025-07
+10378,2025-07-22,Notebook Set,Stationery,North,Karan Mehta,Online,2,198.0,5,396.0,376.2,2025-07
+10455,2025-07-22,Filing Cabinet,Furniture,West,Ananya Rao,Wholesale,5,5802.72,0,29013.6,29013.6,2025-07
+10327,2025-07-23,Laptop Stand,Office,South,Sneha Iyer,Wholesale,2,1283.5,10,2567.0,2310.3,2025-07
+10515,2025-07-23,Ergonomic Keyboard,Electronics,North,Ananya Rao,Online,3,2313.13,10,6939.39,6245.451,2025-07
+10068,2025-07-24,Whiteboard,Office,South,Vikram Shah,Online,1,2597.13,20,2597.13,2077.704,2025-07
+10012,2025-07-25,Standing Desk,Furniture,East,Ananya Rao,Retail,3,12625.44,5,37876.32,35982.504,2025-07
+10530,2025-07-26,Notebook Set,Stationery,West,Rohit Verma,Wholesale,1,189.8,0,189.8,189.8,2025-07
+10450,2025-07-27,Wireless Mouse,Electronics,West,Sneha Iyer,Online,2,766.62,0,1533.24,1533.24,2025-07
+10075,2025-07-28,Notebook Set,Stationery,East,Sneha Iyer,Wholesale,5,190.29,20,951.45,761.1600000000001,2025-07
+10566,2025-07-29,USB-C Cable,Electronics,North,Priya Nair,Online,2,289.66,20,579.32,463.4560000000001,2025-07
+10645,2025-07-29,Standing Desk,Furniture,East,Ananya Rao,Retail,5,13196.03,0,65980.15,65980.15,2025-07
+10278,2025-07-30,Laptop Stand,Office,West,Karan Mehta,Online,1,1325.73,10,1325.73,1193.1570000000002,2025-07
+10647,2025-07-31,Laptop Stand,Office,West,Vikram Shah,Wholesale,10,1267.02,0,12670.2,12670.2,2025-07
+10287,2025-07-31,Bluetooth Speaker,Electronics,East,Karan Mehta,Wholesale,1,1933.41,0,1933.41,1933.41,2025-07
+10148,2025-08-01,Filing Cabinet,Furniture,South,Vikram Shah,Retail,3,6017.51,0,18052.53,18052.53,2025-08
+10524,2025-08-04,Office Chair,Furniture,East,Priya Nair,Wholesale,2,6475.45,0,12950.9,12950.9,2025-08
+10089,2025-08-04,Wireless Mouse,Electronics,West,Ananya Rao,Wholesale,3,809.83,20,2429.49,1943.5919999999999,2025-08
+10367,2025-08-05,USB-C Cable,Electronics,West,Ananya Rao,Wholesale,10,301.46,10,3014.6,2713.14,2025-08
+10385,2025-08-05,Notebook Set,Stationery,South,Rohit Verma,Online,1,200.09,5,200.09,190.0855,2025-08
+10016,2025-08-05,Webcam HD,Electronics,North,Rohit Verma,Wholesale,10,3509.19,10,35091.9,31582.710000000003,2025-08
+10422,2025-08-05,Notebook Set,Stationery,West,Ananya Rao,Online,1,194.57,0,194.57,194.57,2025-08
+10069,2025-08-06,Bluetooth Speaker,Electronics,South,Vikram Shah,Online,10,1813.59,0,18135.9,18135.9,2025-08
+10167,2025-08-07,Notebook Set,Stationery,North,Rohit Verma,Online,10,190.51,0,1905.1,1905.1,2025-08
+10377,2025-08-07,LED Desk Lamp,Office,West,Vikram Shah,Wholesale,1,870.81,15,870.81,740.1885,2025-08
+10394,2025-08-08,Webcam HD,Electronics,South,Sneha Iyer,Retail,2,3608.7,20,7217.4,5773.92,2025-08
+10641,2025-08-08,LED Desk Lamp,Office,South,Rohit Verma,Wholesale,3,907.01,15,2721.03,2312.8755,2025-08
+10597,2025-08-11,Filing Cabinet,Furniture,North,Karan Mehta,Online,1,5713.3,15,5713.3,4856.305,2025-08
+10136,2025-08-11,Bluetooth Speaker,Electronics,North,Karan Mehta,Online,1,1888.3,15,1888.3,1605.0549999999998,2025-08
+10471,2025-08-12,USB-C Cable,Electronics,West,Karan Mehta,Wholesale,1,305.19,10,305.19,274.671,2025-08
+10233,2025-08-12,Standing Desk,Furniture,West,Karan Mehta,Wholesale,5,12789.76,0,63948.8,63948.8,2025-08
+10202,2025-08-13,Whiteboard,Office,South,Priya Nair,Wholesale,2,2470.87,20,4941.74,3953.392,2025-08
+10393,2025-08-13,Bluetooth Speaker,Electronics,North,Vikram Shah,Retail,3,1967.56,10,5902.68,5312.412,2025-08
+10025,2025-08-13,Standing Desk,Furniture,West,Ananya Rao,Retail,2,12432.28,0,24864.56,24864.56,2025-08
+10316,2025-08-13,Notebook Set,Stationery,South,Sneha Iyer,Retail,1,191.84,0,191.84,191.84,2025-08
+10478,2025-08-13,Notebook Set,Stationery,West,Vikram Shah,Wholesale,10,206.6,0,2066.0,2066.0,2025-08
+10582,2025-08-15,Ergonomic Keyboard,Electronics,South,Karan Mehta,Online,3,2357.65,10,7072.95,6365.655,2025-08
+10414,2025-08-15,Webcam HD,Electronics,South,Ananya Rao,Retail,1,3587.33,10,3587.33,3228.597,2025-08
+10106,2025-08-15,Whiteboard,Office,East,Sneha Iyer,Wholesale,2,2516.15,0,5032.3,5032.3,2025-08
+10504,2025-08-15,Laptop Stand,Office,South,Rohit Verma,Online,10,1332.71,20,13327.1,10661.68,2025-08
+10241,2025-08-16,Standing Desk,Furniture,North,Sneha Iyer,Retail,3,12866.45,15,38599.35,32809.447499999995,2025-08
+10509,2025-08-17,Ergonomic Keyboard,Electronics,South,Rohit Verma,Online,3,2263.19,20,6789.57,5431.656,2025-08
+10237,2025-08-17,Standing Desk,Furniture,North,Karan Mehta,Wholesale,5,12705.94,20,63529.7,50823.76,2025-08
+10579,2025-08-20,Standing Desk,Furniture,North,Sneha Iyer,Online,2,13314.11,10,26628.22,23965.398,2025-08
+10507,2025-08-22,Wireless Mouse,Electronics,North,Priya Nair,Online,2,780.94,20,1561.88,1249.5040000000001,2025-08
+10070,2025-08-22,Bluetooth Speaker,Electronics,South,Rohit Verma,Online,3,1984.46,5,5953.38,5655.711,2025-08
+10230,2025-08-23,Filing Cabinet,Furniture,North,Priya Nair,Retail,1,6173.64,0,6173.64,6173.64,2025-08
+10382,2025-08-23,Standing Desk,Furniture,South,Karan Mehta,Online,2,13543.25,10,27086.5,24377.850000000002,2025-08
+10264,2025-08-23,LED Desk Lamp,Office,South,Vikram Shah,Online,3,858.42,0,2575.26,2575.26,2025-08
+10559,2025-08-24,Bluetooth Speaker,Electronics,West,Sneha Iyer,Wholesale,1,1966.72,5,1966.72,1868.384,2025-08
+10514,2025-08-24,Standing Desk,Furniture,East,Vikram Shah,Wholesale,2,13229.34,20,26458.68,21166.944000000003,2025-08
+10140,2025-08-24,Office Chair,Furniture,East,Karan Mehta,Retail,10,6759.75,15,67597.5,57457.875,2025-08
+10080,2025-08-25,USB-C Cable,Electronics,South,Ananya Rao,Wholesale,5,293.84,5,1469.2,1395.74,2025-08
+10198,2025-08-25,Office Chair,Furniture,West,Ananya Rao,Retail,3,6714.57,0,20143.71,20143.71,2025-08
+10365,2025-08-25,Wireless Mouse,Electronics,South,Rohit Verma,Wholesale,1,824.49,20,824.49,659.5920000000001,2025-08
+10546,2025-08-26,Office Chair,Furniture,North,Ananya Rao,Retail,1,6727.93,0,6727.93,6727.93,2025-08
+10446,2025-08-27,Whiteboard,Office,East,Rohit Verma,Retail,3,2615.11,0,7845.33,7845.33,2025-08
+10091,2025-08-27,Whiteboard,Office,West,Karan Mehta,Online,2,2454.59,0,4909.18,4909.18,2025-08
+10293,2025-08-28,LED Desk Lamp,Office,East,Vikram Shah,Retail,3,868.66,5,2605.98,2475.681,2025-08
+10329,2025-08-29,Filing Cabinet,Furniture,East,Vikram Shah,Wholesale,3,5947.37,10,17842.11,16057.899000000001,2025-08
+10557,2025-08-29,LED Desk Lamp,Office,West,Vikram Shah,Retail,10,882.87,0,8828.7,8828.7,2025-08
+10117,2025-08-29,Bluetooth Speaker,Electronics,East,Rohit Verma,Wholesale,3,1931.31,20,5793.93,4635.144,2025-08
+10097,2025-08-31,Standing Desk,Furniture,East,Rohit Verma,Online,3,12806.37,5,38419.11,36498.1545,2025-08
+10501,2025-09-01,Filing Cabinet,Furniture,East,Priya Nair,Retail,3,6189.4,0,18568.2,18568.2,2025-09
+10165,2025-09-01,Bluetooth Speaker,Electronics,West,Priya Nair,Online,1,1889.89,0,1889.89,1889.89,2025-09
+10301,2025-09-02,USB-C Cable,Electronics,South,Rohit Verma,Online,3,296.48,10,889.44,800.4960000000001,2025-09
+10249,2025-09-03,Filing Cabinet,Furniture,West,Rohit Verma,Online,1,5774.23,0,5774.23,5774.23,2025-09
+10215,2025-09-04,Webcam HD,Electronics,East,Sneha Iyer,Retail,1,3423.79,20,3423.79,2739.032,2025-09
+10374,2025-09-05,LED Desk Lamp,Office,East,Rohit Verma,Retail,10,918.96,5,9189.6,8730.12,2025-09
+10078,2025-09-06,Notebook Set,Stationery,North,Rohit Verma,Wholesale,5,203.46,20,1017.3,813.84,2025-09
+10028,2025-09-06,Webcam HD,Electronics,South,Sneha Iyer,Retail,10,3409.07,5,34090.7,32386.164999999997,2025-09
+10403,2025-09-06,Ergonomic Keyboard,Electronics,East,Karan Mehta,Retail,1,2206.94,20,2206.94,1765.5520000000001,2025-09
+10628,2025-09-07,Standing Desk,Furniture,West,Sneha Iyer,Retail,1,12920.87,0,12920.87,12920.87,2025-09
+10623,2025-09-07,Laptop Stand,Office,South,Ananya Rao,Wholesale,3,1264.45,15,3793.35,3224.3475,2025-09
+10400,2025-09-07,Whiteboard,Office,East,Sneha Iyer,Retail,1,2556.71,5,2556.71,2428.8745,2025-09
+10157,2025-09-08,Bluetooth Speaker,Electronics,West,Priya Nair,Retail,3,1845.31,5,5535.93,5259.1335,2025-09
+10282,2025-09-08,Filing Cabinet,Furniture,East,Rohit Verma,Wholesale,2,5871.69,10,11743.38,10569.042,2025-09
+10128,2025-09-08,Webcam HD,Electronics,South,Rohit Verma,Online,10,3444.81,10,34448.1,31003.29,2025-09
+10358,2025-09-10,Office Chair,Furniture,South,Ananya Rao,Retail,5,6353.4,0,31767.0,31767.0,2025-09
+10015,2025-09-10,LED Desk Lamp,Office,North,Ananya Rao,Retail,1,910.46,20,910.46,728.368,2025-09
+10195,2025-09-10,Webcam HD,Electronics,West,Sneha Iyer,Online,10,3562.38,10,35623.8,32061.420000000002,2025-09
+10390,2025-09-11,Ergonomic Keyboard,Electronics,North,Sneha Iyer,Retail,2,2362.25,20,4724.5,3779.6000000000004,2025-09
+10402,2025-09-11,Laptop Stand,Office,East,Priya Nair,Wholesale,3,1305.15,0,3915.45,3915.45,2025-09
+10418,2025-09-11,Laptop Stand,Office,West,Ananya Rao,Retail,10,1316.94,0,13169.4,13169.4,2025-09
+10543,2025-09-12,LED Desk Lamp,Office,South,Karan Mehta,Wholesale,3,875.13,0,2625.39,2625.39,2025-09
+10187,2025-09-12,Wireless Mouse,Electronics,West,Vikram Shah,Retail,5,801.6,0,4008.0,4008.0,2025-09
+10019,2025-09-14,Office Chair,Furniture,South,Sneha Iyer,Retail,2,6721.05,10,13442.1,12097.890000000001,2025-09
+10602,2025-09-15,Standing Desk,Furniture,North,Priya Nair,Online,2,13137.52,0,26275.04,26275.04,2025-09
+10214,2025-09-15,Notebook Set,Stationery,West,Vikram Shah,Retail,1,206.42,0,206.42,206.42,2025-09
+10338,2025-09-15,Wireless Mouse,Electronics,West,Vikram Shah,Retail,1,800.95,0,800.95,800.95,2025-09
+10003,2025-09-16,Laptop Stand,Office,North,Sneha Iyer,Retail,5,1262.69,10,6313.45,5682.105,2025-09
+10071,2025-09-16,Ergonomic Keyboard,Electronics,West,Sneha Iyer,Wholesale,1,2355.02,5,2355.02,2237.269,2025-09
+10508,2025-09-16,Whiteboard,Office,West,Karan Mehta,Retail,1,2434.51,5,2434.51,2312.7845,2025-09
+10638,2025-09-16,LED Desk Lamp,Office,West,Vikram Shah,Online,1,870.0,10,870.0,783.0,2025-09
+10226,2025-09-17,LED Desk Lamp,Office,North,Rohit Verma,Wholesale,1,911.2,0,911.2,911.2,2025-09
+10125,2025-09-18,Office Chair,Furniture,East,Rohit Verma,Wholesale,10,6332.45,10,63324.5,56992.05,2025-09
+10193,2025-09-19,LED Desk Lamp,Office,South,Priya Nair,Wholesale,1,875.29,0,875.29,875.29,2025-09
+10371,2025-09-19,Laptop Stand,Office,South,Rohit Verma,Wholesale,5,1294.2,15,6471.0,5500.349999999999,2025-09
+10423,2025-09-19,Bluetooth Speaker,Electronics,South,Vikram Shah,Online,3,1878.25,15,5634.75,4789.537499999999,2025-09
+10306,2025-09-20,USB-C Cable,Electronics,West,Rohit Verma,Online,1,300.76,15,300.76,255.646,2025-09
+10629,2025-09-21,Bluetooth Speaker,Electronics,East,Vikram Shah,Retail,1,1833.93,10,1833.93,1650.537,2025-09
+10260,2025-09-21,Standing Desk,Furniture,North,Priya Nair,Retail,10,12508.32,5,125083.2,118829.04,2025-09
+10263,2025-09-21,Whiteboard,Office,West,Rohit Verma,Wholesale,10,2379.84,5,23798.4,22608.48,2025-09
+10595,2025-09-21,Standing Desk,Furniture,North,Ananya Rao,Retail,1,13164.0,0,13164.0,13164.0,2025-09
+10594,2025-09-21,Standing Desk,Furniture,West,Rohit Verma,Retail,2,13516.73,0,27033.46,27033.46,2025-09
+10120,2025-09-21,Notebook Set,Stationery,North,Karan Mehta,Online,10,197.27,0,1972.7,1972.7,2025-09
+10627,2025-09-22,Bluetooth Speaker,Electronics,East,Rohit Verma,Retail,5,1871.07,20,9355.35,7484.280000000001,2025-09
+10116,2025-09-23,Whiteboard,Office,West,Priya Nair,Retail,5,2532.68,5,12663.4,12030.23,2025-09
+10555,2025-09-23,Standing Desk,Furniture,North,Rohit Verma,Online,2,12975.51,15,25951.02,22058.367,2025-09
+10624,2025-09-23,Laptop Stand,Office,East,Rohit Verma,Wholesale,10,1348.56,0,13485.6,13485.6,2025-09
+10534,2025-09-24,Whiteboard,Office,East,Rohit Verma,Online,1,2459.7,5,2459.7,2336.7149999999997,2025-09
+10318,2025-09-24,Webcam HD,Electronics,South,Rohit Verma,Wholesale,2,3345.38,10,6690.76,6021.684,2025-09
+10588,2025-09-27,Standing Desk,Furniture,South,Vikram Shah,Online,1,13371.11,0,13371.11,13371.11,2025-09
+10185,2025-09-27,Whiteboard,Office,East,Ananya Rao,Retail,5,2620.06,0,13100.3,13100.3,2025-09
+10381,2025-09-28,Whiteboard,Office,East,Sneha Iyer,Wholesale,5,2520.74,0,12603.7,12603.7,2025-09
+10037,2025-09-29,LED Desk Lamp,Office,South,Ananya Rao,Online,1,930.59,0,930.59,930.59,2025-09
+10280,2025-09-30,Whiteboard,Office,East,Sneha Iyer,Wholesale,2,2526.51,0,5053.02,5053.02,2025-09
+10337,2025-09-30,Wireless Mouse,Electronics,West,Ananya Rao,Retail,2,801.86,0,1603.72,1603.72,2025-09
+10272,2025-09-30,LED Desk Lamp,Office,West,Karan Mehta,Online,2,896.74,0,1793.48,1793.48,2025-09
+10537,2025-10-01,Office Chair,Furniture,North,Sneha Iyer,Retail,1,6598.8,0,6598.8,6598.8,2025-10
+10254,2025-10-01,Ergonomic Keyboard,Electronics,North,Sneha Iyer,Online,1,2320.11,10,2320.11,2088.099,2025-10
+10646,2025-10-02,Office Chair,Furniture,West,Sneha Iyer,Wholesale,2,6818.62,5,13637.24,12955.377999999999,2025-10
+10616,2025-10-03,USB-C Cable,Electronics,South,Priya Nair,Online,1,305.8,0,305.8,305.8,2025-10
+10285,2025-10-03,Laptop Stand,Office,East,Sneha Iyer,Online,2,1251.88,10,2503.76,2253.3840000000005,2025-10
+10321,2025-10-03,USB-C Cable,Electronics,West,Vikram Shah,Retail,2,309.69,0,619.38,619.38,2025-10
+10302,2025-10-03,Whiteboard,Office,South,Vikram Shah,Online,1,2505.37,10,2505.37,2254.833,2025-10
+10484,2025-10-04,Filing Cabinet,Furniture,East,Karan Mehta,Wholesale,2,5841.56,0,11683.12,11683.12,2025-10
+10082,2025-10-04,Wireless Mouse,Electronics,North,Priya Nair,Retail,1,821.47,15,821.47,698.2495,2025-10
+10466,2025-10-05,Whiteboard,Office,East,Vikram Shah,Wholesale,1,2396.61,0,2396.61,2396.61,2025-10
+10391,2025-10-05,Standing Desk,Furniture,North,Karan Mehta,Wholesale,2,13635.66,0,27271.32,27271.32,2025-10
+10283,2025-10-06,Webcam HD,Electronics,West,Rohit Verma,Wholesale,1,3425.68,0,3425.68,3425.68,2025-10
+10589,2025-10-06,Notebook Set,Stationery,West,Ananya Rao,Wholesale,2,206.63,15,413.26,351.27099999999996,2025-10
+10626,2025-10-06,Ergonomic Keyboard,Electronics,South,Rohit Verma,Online,5,2268.03,15,11340.15,9639.127499999999,2025-10
+10043,2025-10-06,Whiteboard,Office,East,Sneha Iyer,Online,1,2540.95,10,2540.95,2286.855,2025-10
+10438,2025-10-07,Laptop Stand,Office,South,Vikram Shah,Retail,5,1237.16,10,6185.8,5567.22,2025-10
+10565,2025-10-08,Office Chair,Furniture,East,Karan Mehta,Retail,1,6756.93,5,6756.93,6419.0835,2025-10
+10288,2025-10-09,Wireless Mouse,Electronics,South,Rohit Verma,Online,10,797.2,0,7972.0,7972.0,2025-10
+10615,2025-10-10,Whiteboard,Office,North,Vikram Shah,Online,1,2584.41,20,2584.41,2067.528,2025-10
+10618,2025-10-10,Wireless Mouse,Electronics,East,Sneha Iyer,Online,10,811.3,0,8113.0,8113.0,2025-10
+10026,2025-10-11,Ergonomic Keyboard,Electronics,South,Sneha Iyer,Retail,1,2200.37,15,2200.37,1870.3145,2025-10
+10433,2025-10-11,Wireless Mouse,Electronics,West,Vikram Shah,Wholesale,2,792.31,15,1584.62,1346.927,2025-10
+10095,2025-10-12,Whiteboard,Office,South,Karan Mehta,Wholesale,10,2486.05,0,24860.5,24860.5,2025-10
+10585,2025-10-12,Office Chair,Furniture,East,Vikram Shah,Retail,2,6177.72,5,12355.44,11737.668,2025-10
+10105,2025-10-13,Bluetooth Speaker,Electronics,West,Sneha Iyer,Online,2,1951.35,5,3902.7,3707.5649999999996,2025-10
+10561,2025-10-13,Wireless Mouse,Electronics,North,Ananya Rao,Online,2,830.17,10,1660.34,1494.306,2025-10
+10188,2025-10-14,LED Desk Lamp,Office,East,Ananya Rao,Wholesale,1,893.27,5,893.27,848.6065,2025-10
+10575,2025-10-15,Standing Desk,Furniture,West,Sneha Iyer,Online,5,13225.5,20,66127.5,52902.0,2025-10
+10279,2025-10-15,Laptop Stand,Office,East,Karan Mehta,Wholesale,5,1274.81,0,6374.05,6374.05,2025-10
+10345,2025-10-16,LED Desk Lamp,Office,North,Vikram Shah,Wholesale,1,940.49,10,940.49,846.441,2025-10
+10370,2025-10-16,Wireless Mouse,Electronics,West,Priya Nair,Wholesale,1,759.89,0,759.89,759.89,2025-10
+10460,2025-10-17,Standing Desk,Furniture,East,Rohit Verma,Wholesale,1,12382.93,10,12382.93,11144.637,2025-10
+10340,2025-10-17,Whiteboard,Office,South,Karan Mehta,Retail,2,2544.99,20,5089.98,4071.984,2025-10
+10474,2025-10-18,Notebook Set,Stationery,North,Vikram Shah,Online,3,207.38,10,622.14,559.926,2025-10
+10344,2025-10-18,Filing Cabinet,Furniture,West,Priya Nair,Retail,1,6109.64,0,6109.64,6109.64,2025-10
+10527,2025-10-19,Notebook Set,Stationery,West,Vikram Shah,Wholesale,1,204.55,5,204.55,194.3225,2025-10
+10395,2025-10-19,Wireless Mouse,Electronics,East,Sneha Iyer,Wholesale,1,784.91,15,784.91,667.1735,2025-10
+10506,2025-10-19,LED Desk Lamp,Office,North,Vikram Shah,Retail,2,929.29,0,1858.58,1858.58,2025-10
+10485,2025-10-20,Notebook Set,Stationery,West,Vikram Shah,Retail,3,189.13,0,567.39,567.39,2025-10
+10520,2025-10-20,Filing Cabinet,Furniture,South,Priya Nair,Online,2,6110.77,15,12221.54,10388.309000000001,2025-10
+10492,2025-10-21,Whiteboard,Office,South,Rohit Verma,Wholesale,1,2472.71,20,2472.71,1978.1680000000001,2025-10
+10304,2025-10-21,Laptop Stand,Office,South,Vikram Shah,Wholesale,10,1249.15,0,12491.5,12491.5,2025-10
+10599,2025-10-22,Bluetooth Speaker,Electronics,South,Priya Nair,Wholesale,5,1889.72,5,9448.6,8976.17,2025-10
+10642,2025-10-22,Filing Cabinet,Furniture,North,Rohit Verma,Retail,2,5985.29,0,11970.58,11970.58,2025-10
+10317,2025-10-22,Laptop Stand,Office,East,Sneha Iyer,Online,3,1264.82,0,3794.46,3794.46,2025-10
+10275,2025-10-23,Ergonomic Keyboard,Electronics,South,Karan Mehta,Retail,10,2223.25,15,22232.5,18897.625,2025-10
+10429,2025-10-23,Filing Cabinet,Furniture,North,Rohit Verma,Wholesale,3,5732.31,20,17196.93,13757.544000000002,2025-10
+10644,2025-10-23,Wireless Mouse,Electronics,North,Sneha Iyer,Retail,5,811.35,15,4056.75,3448.2374999999997,2025-10
+10064,2025-10-24,Notebook Set,Stationery,East,Rohit Verma,Wholesale,10,202.49,10,2024.9,1822.41,2025-10
+10147,2025-10-24,Wireless Mouse,Electronics,East,Karan Mehta,Retail,1,831.73,0,831.73,831.73,2025-10
+10610,2025-10-25,Filing Cabinet,Furniture,West,Priya Nair,Wholesale,1,6101.76,0,6101.76,6101.76,2025-10
+10228,2025-10-25,Bluetooth Speaker,Electronics,East,Vikram Shah,Retail,3,1907.74,20,5723.22,4578.576,2025-10
+10305,2025-10-26,Filing Cabinet,Furniture,West,Ananya Rao,Online,10,6184.18,5,61841.8,58749.71,2025-10
+10286,2025-10-28,Filing Cabinet,Furniture,South,Vikram Shah,Retail,2,6081.75,0,12163.5,12163.5,2025-10
+10174,2025-10-28,Wireless Mouse,Electronics,East,Karan Mehta,Retail,5,787.3,15,3936.5,3346.025,2025-10
+10115,2025-10-28,Ergonomic Keyboard,Electronics,North,Karan Mehta,Wholesale,1,2359.49,0,2359.49,2359.49,2025-10
+10533,2025-10-29,LED Desk Lamp,Office,East,Vikram Shah,Retail,1,880.86,0,880.86,880.86,2025-10
+10632,2025-10-31,Ergonomic Keyboard,Electronics,South,Vikram Shah,Online,1,2388.84,0,2388.84,2388.84,2025-10
+10112,2025-11-01,Office Chair,Furniture,East,Rohit Verma,Retail,10,6621.62,15,66216.2,56283.77,2025-11
+10369,2025-11-01,LED Desk Lamp,Office,North,Ananya Rao,Retail,3,869.0,10,2607.0,2346.3,2025-11
+10606,2025-11-02,Ergonomic Keyboard,Electronics,West,Sneha Iyer,Online,1,2254.1,15,2254.1,1915.985,2025-11
+10265,2025-11-02,Whiteboard,Office,West,Priya Nair,Online,1,2585.76,5,2585.76,2456.472,2025-11
+10100,2025-11-02,LED Desk Lamp,Office,East,Ananya Rao,Retail,2,874.5,0,1749.0,1749.0,2025-11
+10583,2025-11-05,Filing Cabinet,Furniture,South,Karan Mehta,Retail,2,5968.29,15,11936.58,10146.092999999999,2025-11
+10349,2025-11-06,Standing Desk,Furniture,West,Priya Nair,Retail,2,13367.58,5,26735.16,25398.402,2025-11
+10114,2025-11-06,Standing Desk,Furniture,East,Ananya Rao,Retail,2,13599.44,20,27198.88,21759.104000000003,2025-11
+10085,2025-11-07,Ergonomic Keyboard,Electronics,North,Vikram Shah,Wholesale,1,2317.09,0,2317.09,2317.09,2025-11
+10571,2025-11-08,Notebook Set,Stationery,South,Priya Nair,Wholesale,3,208.36,5,625.08,593.826,2025-11
+10168,2025-11-08,Standing Desk,Furniture,South,Ananya Rao,Retail,2,13160.6,10,26321.2,23689.08,2025-11
+10212,2025-11-09,Whiteboard,Office,East,Karan Mehta,Wholesale,2,2507.5,0,5015.0,5015.0,2025-11
+10067,2025-11-09,Whiteboard,Office,North,Rohit Verma,Wholesale,2,2553.56,5,5107.12,4851.764,2025-11
+10472,2025-11-11,Filing Cabinet,Furniture,East,Vikram Shah,Online,1,5926.04,15,5926.04,5037.134,2025-11
+10650,2025-11-11,LED Desk Lamp,Office,North,Vikram Shah,Wholesale,1,926.36,20,926.36,741.0880000000001,2025-11
+10007,2025-11-13,Webcam HD,Electronics,East,Sneha Iyer,Retail,1,3340.08,0,3340.08,3340.08,2025-11
+10541,2025-11-13,LED Desk Lamp,Office,North,Priya Nair,Retail,1,898.8,10,898.8,808.92,2025-11
+10601,2025-11-13,Filing Cabinet,Furniture,North,Karan Mehta,Online,1,6119.51,0,6119.51,6119.51,2025-11
+10339,2025-11-14,Laptop Stand,Office,East,Priya Nair,Wholesale,5,1244.31,5,6221.55,5910.4725,2025-11
+10276,2025-11-14,Filing Cabinet,Furniture,West,Vikram Shah,Online,2,5717.99,15,11435.98,9720.582999999999,2025-11
+10592,2025-11-15,Ergonomic Keyboard,Electronics,South,Ananya Rao,Online,3,2271.73,20,6815.19,5452.152,2025-11
+10636,2025-11-16,USB-C Cable,Electronics,East,Vikram Shah,Online,3,311.63,10,934.89,841.401,2025-11
+10495,2025-11-18,Laptop Stand,Office,South,Sneha Iyer,Wholesale,3,1352.36,20,4057.08,3245.664,2025-11
+10274,2025-11-19,Filing Cabinet,Furniture,North,Sneha Iyer,Wholesale,2,6279.2,20,12558.4,10046.720000000001,2025-11
+10335,2025-11-19,USB-C Cable,Electronics,South,Unknown,Online,1,284.32,10,284.32,255.888,2025-11
+10596,2025-11-19,Webcam HD,Electronics,South,Karan Mehta,Wholesale,1,3395.98,20,3395.98,2716.784,2025-11
+10528,2025-11-20,Standing Desk,Furniture,South,Priya Nair,Online,1,12355.18,0,12355.18,12355.18,2025-11
+10197,2025-11-20,Whiteboard,Office,East,Priya Nair,Online,1,2462.0,0,2462.0,2462.0,2025-11
+10617,2025-11-20,LED Desk Lamp,Office,North,Sneha Iyer,Online,5,923.2,0,4616.0,4616.0,2025-11
+10568,2025-11-21,Wireless Mouse,Electronics,North,Rohit Verma,Wholesale,1,836.06,0,836.06,836.06,2025-11
+10439,2025-11-22,Standing Desk,Furniture,North,Priya Nair,Retail,5,13452.67,15,67263.35,57173.8475,2025-11
+10196,2025-11-22,Webcam HD,Electronics,East,Karan Mehta,Wholesale,1,3477.92,5,3477.92,3304.024,2025-11
+10443,2025-11-23,USB-C Cable,Electronics,West,Ananya Rao,Online,1,297.06,0,297.06,297.06,2025-11
+10342,2025-11-23,Wireless Mouse,Electronics,North,Karan Mehta,Retail,1,798.99,5,798.99,759.0405,2025-11
+10475,2025-11-24,Laptop Stand,Office,North,Rohit Verma,Retail,3,1330.87,0,3992.61,3992.61,2025-11
+10251,2025-11-24,LED Desk Lamp,Office,South,Vikram Shah,Wholesale,1,928.79,10,928.79,835.911,2025-11
+10011,2025-11-24,Office Chair,Furniture,South,Karan Mehta,Wholesale,1,6322.91,0,6322.91,6322.91,2025-11
+10412,2025-11-25,USB-C Cable,Electronics,South,Ananya Rao,Online,1,302.3,0,302.3,302.3,2025-11
+10556,2025-11-25,Webcam HD,Electronics,West,Vikram Shah,Online,1,3328.12,0,3328.12,3328.12,2025-11
+10013,2025-11-26,Notebook Set,Stationery,West,Vikram Shah,Wholesale,1,193.96,10,193.96,174.56400000000002,2025-11
+10609,2025-11-27,Whiteboard,Office,North,Priya Nair,Online,1,2436.7,0,2436.7,2436.7,2025-11
+10111,2025-11-28,Laptop Stand,Office,South,Priya Nair,Retail,1,1241.8,20,1241.8,993.44,2025-11
+10605,2025-11-28,Filing Cabinet,Furniture,East,Ananya Rao,Online,1,5772.98,0,5772.98,5772.98,2025-11
+10219,2025-11-29,Filing Cabinet,Furniture,East,Vikram Shah,Retail,1,5871.15,20,5871.15,4696.92,2025-11
+10200,2025-11-30,Ergonomic Keyboard,Electronics,South,Priya Nair,Online,10,2299.31,0,22993.1,22993.1,2025-11
+10341,2025-12-01,Bluetooth Speaker,Electronics,North,Ananya Rao,Wholesale,5,1875.67,5,9378.35,8909.4325,2025-12
+10392,2025-12-01,Filing Cabinet,Furniture,South,Priya Nair,Retail,10,5856.71,20,58567.1,46853.68,2025-12
+10562,2025-12-02,Laptop Stand,Office,West,Priya Nair,Wholesale,1,1340.12,20,1340.12,1072.096,2025-12
+10554,2025-12-02,Office Chair,Furniture,East,Ananya Rao,Online,2,6809.58,15,13619.16,11576.286,2025-12
+10406,2025-12-02,Bluetooth Speaker,Electronics,East,Priya Nair,Retail,3,1930.24,15,5790.72,4922.112,2025-12
+10564,2025-12-04,Bluetooth Speaker,Electronics,South,Ananya Rao,Wholesale,3,1961.64,20,5884.92,4707.936000000001,2025-12
+10622,2025-12-04,Ergonomic Keyboard,Electronics,South,Karan Mehta,Online,10,2399.97,0,23999.7,23999.7,2025-12
+10183,2025-12-05,Whiteboard,Office,West,Rohit Verma,Online,10,2477.55,0,24775.5,24775.5,2025-12
+10236,2025-12-05,Standing Desk,Furniture,East,Priya Nair,Wholesale,5,12565.67,5,62828.35,59686.932499999995,2025-12
+10486,2025-12-05,Office Chair,Furniture,West,Vikram Shah,Retail,1,6308.55,15,6308.55,5362.2675,2025-12
+10587,2025-12-05,Ergonomic Keyboard,Electronics,East,Rohit Verma,Online,3,2200.81,15,6602.43,5612.0655,2025-12
+10470,2025-12-06,Filing Cabinet,Furniture,West,Sneha Iyer,Retail,3,5880.08,0,17640.24,17640.24,2025-12
+10044,2025-12-06,Office Chair,Furniture,North,Vikram Shah,Wholesale,1,6752.27,15,6752.27,5739.4295,2025-12
+10540,2025-12-06,Bluetooth Speaker,Electronics,East,Sneha Iyer,Online,1,1883.59,0,1883.59,1883.59,2025-12
+10401,2025-12-07,Webcam HD,Electronics,East,Ananya Rao,Online,5,3400.27,5,17001.35,16151.282499999998,2025-12
+10225,2025-12-07,USB-C Cable,Electronics,North,Sneha Iyer,Wholesale,1,312.56,10,312.56,281.30400000000003,2025-12
+10053,2025-12-09,Notebook Set,Stationery,South,Priya Nair,Retail,1,196.66,0,196.66,196.66,2025-12
+10325,2025-12-10,Ergonomic Keyboard,Electronics,South,Rohit Verma,Retail,3,2253.75,0,6761.25,6761.25,2025-12
+10577,2025-12-10,Wireless Mouse,Electronics,North,Vikram Shah,Wholesale,1,837.63,15,837.63,711.9855,2025-12
+10521,2025-12-10,Whiteboard,Office,East,Sneha Iyer,Wholesale,1,2584.13,10,2584.13,2325.717,2025-12
+10383,2025-12-11,Bluetooth Speaker,Electronics,South,Priya Nair,Retail,2,1862.04,0,3724.08,3724.08,2025-12
+10152,2025-12-11,Standing Desk,Furniture,East,Sneha Iyer,Wholesale,3,12489.89,0,37469.67,37469.67,2025-12
+10066,2025-12-11,Laptop Stand,Office,East,Vikram Shah,Retail,1,1237.22,0,1237.22,1237.22,2025-12
+10366,2025-12-11,Notebook Set,Stationery,West,Vikram Shah,Online,2,193.87,15,387.74,329.579,2025-12
+10134,2025-12-12,Standing Desk,Furniture,West,Priya Nair,Online,10,13483.06,0,134830.6,134830.6,2025-12
+10002,2025-12-13,Bluetooth Speaker,Electronics,North,Sneha Iyer,Wholesale,1,1809.71,0,1809.71,1809.71,2025-12
+10086,2025-12-13,Ergonomic Keyboard,Electronics,West,Rohit Verma,Online,2,2201.52,15,4403.04,3742.584,2025-12
+10347,2025-12-13,Notebook Set,Stationery,East,Rohit Verma,Online,1,204.78,15,204.78,174.063,2025-12
+10239,2025-12-14,Ergonomic Keyboard,Electronics,West,Ananya Rao,Retail,1,2238.31,15,2238.31,1902.5635,2025-12
+10640,2025-12-14,Wireless Mouse,Electronics,West,Sneha Iyer,Wholesale,3,828.95,15,2486.85,2113.8224999999998,2025-12
+10614,2025-12-14,USB-C Cable,Electronics,East,Rohit Verma,Wholesale,10,294.78,0,2947.8,2947.8,2025-12
+10204,2025-12-14,LED Desk Lamp,Office,West,Priya Nair,Wholesale,1,884.02,10,884.02,795.618,2025-12
+10203,2025-12-14,Standing Desk,Furniture,North,Karan Mehta,Online,3,12434.73,0,37304.19,37304.19,2025-12
+10146,2025-12-14,Office Chair,Furniture,South,Karan Mehta,Retail,1,6374.83,5,6374.83,6056.0885,2025-12
+10523,2025-12-15,USB-C Cable,Electronics,East,Karan Mehta,Retail,2,294.67,15,589.34,500.939,2025-12
+10424,2025-12-15,Webcam HD,Electronics,North,Priya Nair,Online,5,3579.46,20,17897.3,14317.84,2025-12
+10017,2025-12-15,Wireless Mouse,Electronics,North,Karan Mehta,Online,2,820.46,0,1640.92,1640.92,2025-12
+10409,2025-12-15,LED Desk Lamp,Office,West,Ananya Rao,Retail,3,927.51,20,2782.53,2226.0240000000003,2025-12
+10207,2025-12-17,Filing Cabinet,Furniture,North,Karan Mehta,Online,5,6004.09,0,30020.45,30020.45,2025-12
+10581,2025-12-17,Notebook Set,Stationery,East,Sneha Iyer,Retail,1,203.85,0,203.85,203.85,2025-12
+10621,2025-12-17,Ergonomic Keyboard,Electronics,South,Sneha Iyer,Retail,10,2220.66,10,22206.6,19985.94,2025-12
+10452,2025-12-18,Standing Desk,Furniture,North,Sneha Iyer,Online,2,13541.62,0,27083.24,27083.24,2025-12
+10110,2025-12-18,Bluetooth Speaker,Electronics,South,Priya Nair,Online,2,1884.78,10,3769.56,3392.604,2025-12
+10060,2025-12-18,LED Desk Lamp,Office,South,Priya Nair,Wholesale,1,939.35,0,939.35,939.35,2025-12
+10510,2025-12-19,Office Chair,Furniture,North,Priya Nair,Retail,5,6206.32,20,31031.6,24825.28,2025-12
+10405,2025-12-19,Laptop Stand,Office,South,Karan Mehta,Wholesale,1,1347.64,0,1347.64,1347.64,2025-12
+10099,2025-12-20,LED Desk Lamp,Office,South,Vikram Shah,Retail,10,878.91,10,8789.1,7910.1900000000005,2025-12
+10372,2025-12-20,Ergonomic Keyboard,Electronics,South,Unknown,Retail,10,2208.09,5,22080.9,20976.855,2025-12
+10538,2025-12-20,Wireless Mouse,Electronics,North,Rohit Verma,Wholesale,5,768.93,0,3844.65,3844.65,2025-12
+10024,2025-12-20,Filing Cabinet,Furniture,South,Karan Mehta,Wholesale,5,6296.04,15,31480.2,26758.17,2025-12
+10049,2025-12-20,Bluetooth Speaker,Electronics,South,Sneha Iyer,Retail,3,1914.67,0,5744.01,5744.01,2025-12
+10300,2025-12-20,Office Chair,Furniture,North,Karan Mehta,Wholesale,3,6573.5,0,19720.5,19720.5,2025-12
+10234,2025-12-21,Whiteboard,Office,West,Priya Nair,Online,2,2574.26,15,5148.52,4376.242,2025-12
+10368,2025-12-21,LED Desk Lamp,Office,West,Sneha Iyer,Retail,3,917.13,20,2751.39,2201.112,2025-12
+10384,2025-12-22,Standing Desk,Furniture,South,Sneha Iyer,Wholesale,5,13124.34,10,65621.7,59059.53,2025-12
+10363,2025-12-22,Filing Cabinet,Furniture,West,Sneha Iyer,Retail,3,5924.65,20,17773.95,14219.160000000002,2025-12
+10244,2025-12-22,Office Chair,Furniture,West,Vikram Shah,Retail,1,6728.3,5,6728.3,6391.885,2025-12
+10410,2025-12-22,Notebook Set,Stationery,South,Rohit Verma,Retail,2,196.67,15,393.34,334.33899999999994,2025-12
+10156,2025-12-23,Webcam HD,Electronics,West,Sneha Iyer,Online,1,3633.86,15,3633.86,3088.781,2025-12
+10062,2025-12-23,Notebook Set,Stationery,East,Sneha Iyer,Retail,2,197.42,5,394.84,375.09799999999996,2025-12
+10220,2025-12-23,Whiteboard,Office,South,Karan Mehta,Wholesale,10,2527.83,0,25278.3,25278.3,2025-12
+10442,2025-12-25,Notebook Set,Stationery,East,Rohit Verma,Online,1,200.61,10,200.61,180.549,2025-12
+10465,2025-12-25,Filing Cabinet,Furniture,East,Unknown,Online,1,6036.86,0,6036.86,6036.86,2025-12
+10539,2025-12-26,Whiteboard,Office,South,Vikram Shah,Online,1,2449.3,15,2449.3,2081.905,2025-12
+10469,2025-12-27,Ergonomic Keyboard,Electronics,South,Ananya Rao,Online,3,2404.88,0,7214.64,7214.64,2025-12
+10448,2025-12-27,Office Chair,Furniture,North,Vikram Shah,Wholesale,1,6233.33,0,6233.33,6233.33,2025-12
+10482,2025-12-27,Whiteboard,Office,North,Rohit Verma,Online,1,2525.82,5,2525.82,2399.529,2025-12
+10090,2025-12-29,Whiteboard,Office,South,Rohit Verma,Retail,2,2527.97,10,5055.94,4550.346,2025-12
+10574,2025-12-30,USB-C Cable,Electronics,South,Sneha Iyer,Online,3,305.29,20,915.87,732.696,2025-12
+10388,2025-12-30,Notebook Set,Stationery,West,Rohit Verma,Retail,1,200.3,20,200.3,160.24,2025-12
+10573,2025-12-31,Standing Desk,Furniture,South,Vikram Shah,Retail,2,13241.58,15,26483.16,22510.685999999998,2025-12
+10169,2025-12-31,LED Desk Lamp,Office,East,Rohit Verma,Online,2,894.84,10,1789.68,1610.712,2025-12
+10441,2025-12-31,USB-C Cable,Electronics,East,Ananya Rao,Retail,2,310.88,10,621.76,559.5840000000001,2025-12
+10346,2025-12-31,USB-C Cable,Electronics,West,Ananya Rao,Wholesale,1,300.91,10,300.91,270.819,2025-12

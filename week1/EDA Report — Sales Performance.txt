@@ -1,0 +1,49 @@
+# EDA Report — Sales Performance Analysis
+
+Dataset: `sales_data_cleaned_final.csv` (646 rows, cleaned from 656 raw records — 6 duplicates and 4 zero-quantity rows removed).
+
+## Data Validation
+
+No invalid values found: all discount percentages fall within 0–100%, all unit prices are positive, and `Region` contains only the 4 expected values (East, South, North, West). The dataset is structurally sound after cleaning.
+
+## Outlier Detection
+
+Using the IQR method (1.5× interquartile range), **62 orders (9.6% of the dataset)** fall outside the normal range. The calculated lower bound is negative (-Rs.12,881.94), which isn't meaningful here since revenue can't go negative — in practice, every outlier in this dataset is a *high*-value order, not a low one.
+
+All of the top outliers are **Standing Desk** orders in quantities of 5–10 units, ranging from Rs.65,980 to Rs.135,050. These aren't data errors — they're legitimate large wholesale-style purchases of the single most expensive product in the catalog (Rs.12,999/unit). This is a case where "outlier" means "genuine business event," not "bad data," and it should be treated that way rather than removed.
+
+## Correlation
+
+| | Quantity | UnitPrice | DiscountPct | NetRevenue |
+|---|---|---|---|---|
+| **NetRevenue** | 0.53 | 0.66 | -0.04 | 1.00 |
+
+`UnitPrice` correlates more strongly with revenue (0.66) than `Quantity` does (0.53) — high-value orders are driven more by *what* was bought than *how many units*. This lines up directly with the outlier finding above: the biggest revenue spikes come from an expensive product (Standing Desk), not from unusually large order volumes. `DiscountPct` shows almost no correlation with revenue (-0.04), suggesting discounting isn't a meaningful lever in this dataset one way or the other.
+
+## Trend Analysis
+
+Monthly net revenue across 2025 ranges from a low of Rs.3.46 lakh (November) to a high of Rs.8.65 lakh (December) — December is a clear outlier month, roughly 1.4x the next-highest month (May, Rs.6.60 lakh). Revenue is volatile month to month rather than steadily trending up or down, with no consistent seasonal pattern across the visible months (e.g., April and November are both low, but for no obvious shared reason based on this data alone).
+
+## Basic Statistics
+
+- Mean order value: Rs.10,007.40
+- Median order value: Rs.3,996.80
+- The mean is **2.5x the median** — a strong signal of right-skew, entirely explained by the Standing Desk outliers identified above. Most orders are modest; a small number of large orders pull the average up substantially.
+- Standard deviation: Rs.17,505 — very high relative to the mean, confirming wide spread rather than consistent order sizes.
+- Modal region: South (also the highest-revenue region in the regional breakdown).
+
+## Probability
+
+- Orders are fairly evenly split across regions: South (26.3%), West (25.9%), North (24.6%), East (23.2%) — no single region dominates order volume, even though South leads on revenue.
+- P(order is South AND Wholesale) = 0.096 — roughly 1 in 10 orders meet both conditions.
+
+## Regression: Does Quantity Predict Revenue?
+
+Regressing `NetRevenue` on `Quantity` gives a slope of 3,322.43 (each additional unit ordered associates with ~Rs.3,322 more revenue) but an R-squared of only 0.283 — Quantity explains just 28% of the variation in revenue. This confirms the correlation finding: Quantity alone is a weak predictor. UnitPrice (not tested here with regression, but shown via correlation) plays a larger role, and a combined model using both would likely explain revenue far better than either alone.
+
+## Key Business Insights
+
+1. **Revenue is driven by product mix, not order volume.** The handful of large Standing Desk orders matter more to total revenue than the overall number of orders — a small set of high-ticket purchases has outsized impact.
+2. **December is a standout month** at nearly 1.4x the next-best month, worth investigating for cause (seasonal buying, a bulk deal, year-end budget spending) rather than treating as random noise.
+3. **Discounting shows no measurable relationship with revenue** in this dataset — worth questioning whether current discount strategy is achieving its intended effect.
+4. **Mean-median gap (2.5x) means "average order value" alone is a misleading summary metric** — median or a trimmed mean would better represent a typical order for planning purposes.
